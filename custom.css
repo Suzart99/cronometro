@@ -1,0 +1,18 @@
+@font-face {
+ 	font-family: comfortaa;
+    src: url('Comfortaa.ttf')
+}
+
+.divt{
+	border: double;
+	 font-family: comfortaa;
+  	border-style: solid;
+	 border-color: black;
+	 font-size: large;
+
+
+}
+
+body{
+	background-image: url("https://i.imgur.com/MHpEJpI.jpg");
+}
